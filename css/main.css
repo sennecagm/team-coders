@@ -1,0 +1,69 @@
+h1{
+  text-align: center;
+}
+
+.jumbotron{
+  margin: 0;
+}
+.links{
+  background-image:url(/../images/keyboard.jpg);
+}
+a{
+  color: orange;
+}
+.row{
+  width: 50%;
+  height: auto;
+  margin: 3em auto;
+}
+.row2{
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+}
+/*WEEK 3*/
+.container{
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  background-color:lightblue;
+}
+.row3{
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+}
+.col-md-6{
+  width: 50%;
+  height: auto;
+  margin:0 auto;
+}
+ul {
+  text-align: center;
+  text-decoration: none;
+}
+
+
+
+
+.col-md-3{
+  margin-top: 2em;
+}
+.col-md-4{
+  padding-left: 5em;
+  margin-top: 4em;
+  padding-top: 2em
+
+}
+.col-md-4 a:hover,.col-md-3 a:hover{
+  background-color: lime;
+  text-decoration: none;
+  font-size: 1.5em;
+
+}
+
+.links{
+  width: 100%;
+  height: 400px;
+  background-color: lightyellow;
+}
